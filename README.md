@@ -1,7 +1,7 @@
 
-# Weed Detector Website
+# Weedinator
 
-Welcome to the Weed Detector Website repository! This project aims to provide real-time weed detection in video streams, accompanied by analytics and visualization features.
+This project aims to provide real-time weed detection in video streams, accompanied by analytics and visualization features.
 
 
 [DEMO](https://drive.google.com/file/d/1lVHBE2Iz_VrNQzOeYydP4sEXYtQ4Ws--/view?usp=sharing) 
@@ -12,10 +12,6 @@ Welcome to the Weed Detector Website repository! This project aims to provide re
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
